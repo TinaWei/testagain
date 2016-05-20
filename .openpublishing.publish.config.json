@@ -4,8 +4,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "testagain",
-      "build_source_folder": "test",
-      "build_output_subfolder": "test",
+      "build_source_folder": "a",
+      "build_output_subfolder": "a",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
